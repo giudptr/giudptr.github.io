@@ -6,7 +6,7 @@ tags: [ux]
 author: giulia
 description: Responsiveness is at the core of web development— but why not accessibility?
 comments: false
-media_subpath: web-suitable-everyone
+media_subpath: assets/img/web-suitable-everyone
 image:
   path: /cover-image.webp
 ---
