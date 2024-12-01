@@ -6,7 +6,7 @@ tags: [brand, messaging]
 author: giulia
 description: A deep dive into transport policies that nobody asked for
 comments: false
-media_subpath: assets/img/web-suitable-everyone
+media_subpath: assets/img/fpoe-posters
 image:
   path: /cover-image.webp
 ---
