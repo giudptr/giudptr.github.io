@@ -2,7 +2,7 @@
 title: Creating a web suitable for everyone
 date: 2022-12-29 12:00:00 +/-0100
 categories: [Web, Accessibility]
-tags: [ux, '2024']     
+tags: [ux, '2022']     
 author: giulia
 description: Responsiveness is at the core of web development— but why not accessibility?
 comments: false
