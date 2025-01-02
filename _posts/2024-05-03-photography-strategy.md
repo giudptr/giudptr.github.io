@@ -1,8 +1,8 @@
 ---
 title: Leveraging my content strategy degree to build a photography business
 date: 2024-07-09 12:00:00 +/-0100
-categories: [Content strategy]
-tags: [personas, target audience]     
+categories: [Content strategy, Personas]
+tags: [personas, target audience, '2024', ux]     
 author: giulia
 description: At the intersection of passion and strategy
 comments: false
@@ -25,17 +25,17 @@ Here, as an example, one of the resulting personas:
 
 ![An overview of a persona for a photography business](/persona.jpg)
 
-This overview will help me not only by ensuring that I can provide the right content at the right time for the right reasons (for example, providing an outfit guide before the photoshoot), but also by ensuring that I don't just think about the end product. The whole service experience is important to ensure a happy customer. 
+## Streamlining the service via content
 
-## Optimizing for discovery
+The customer journey in particular is key to ensure that I can provide the right content at the right time (for example, providing an outfit guide before the photoshoot). The whole user experience with the photography service is important to ensure a happy customer, it's not just about the final product. 
+
+## Optimizing for online and offline discovery
 Thanks to my research and the personas I created, I can shape the digital presence of my photography business as I see fit. 
 I can meticulously plan the structure and content of my website and social media accounts and ensure that is perfectly tailored for SEO. 
 
 However, the survey also showed me that online visibility is only part of the equation of a successful photography business. Most people hire photographers through recommendations, so it’s imperative that my content strategy extends beyond the digital realm. Therefore, I must devise strategies to leverage offline recommendations effectively. This might involve networking with local businesses, collaborating with event planners, or participating in community events where word-of-mouth referrals thrive. 
 
 Ensuring a top-notch service with happy customers is key in this endeavour, because if a customer is happy with you, they are obviously more likely to recommend you to others. 
-
-By integrating both online and offline channels, I aim to maximize the discoverability of my business and attract organic traffic from various sources. 
 
 ## Recognizing photography as an art form
 All in all, it’s crucial to acknowledge that photography, at its core, is an art form — a deeply personal expression of creativity and vision. 

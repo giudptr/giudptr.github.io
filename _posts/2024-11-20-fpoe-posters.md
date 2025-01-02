@@ -1,8 +1,8 @@
 ---
 title: Messaging for impact - what politics teaches us about audience targeting
 date: 2024-11-20 12:00:00 +/-0100
-categories: [Content strategy, Brand]
-tags: [brand, messaging]     
+categories: [Content strategy, Brand, Personas]
+tags: [brand, messaging, '2024']     
 author: giulia
 description: A deep dive into transport policies that nobody asked for
 comments: false

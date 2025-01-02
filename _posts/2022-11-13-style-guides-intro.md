@@ -1,8 +1,8 @@
 ---
 title: A key ingredient for consistency in content strategy - style guides
 date: 2022-11-13 12:00:00 +/-0100
-categories: [Content strategy]
-tags: [style guides]     
+categories: [Content strategy, Style guides]
+tags: [style guides, '2024', ux]     
 author: giulia
 description: Style guides are commonly used in technical writing, can and should they be leveraged in content strategy?
 comments: false

@@ -1,8 +1,8 @@
 ---
 title: What shape is a content strategist?
 date: 2024-07-09 12:00:00 +/-0100
-categories: [Content strategy]
-tags: [skills, skills assessment]     
+categories: [Content strategy, Skills]
+tags: [skills, skills assessment, '2024']     
 author: giulia
 description: And no, I’m not talking about hourglass or pear-shaped.
 comments: false

@@ -2,7 +2,7 @@
 title: From 'namaste' to 'wow, that’s me!
 date: 2024-12-03 16:00:00 +/-0100
 categories: [Content strategy, Brand]
-tags: [brand, messaging]     
+tags: [brand, messaging, '2024']     
 author: giulia
 description: Using branding to define a yoga teacher’s identity
 comments: false
