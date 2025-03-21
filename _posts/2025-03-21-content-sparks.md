@@ -2,7 +2,7 @@
 title: All the Content Sparks in one place!
 date: 2025-03-21 12:00:00 +/-0100
 categories: [Content Sparks]
-tags: [Content Sparks]     
+tags: ['Content Sparks']     
 author: giulia
 description: 
 comments: false
