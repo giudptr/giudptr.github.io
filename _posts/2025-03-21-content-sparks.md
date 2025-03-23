@@ -4,7 +4,7 @@ date: 2025-03-21 12:00:00 +/-0100
 categories: [Content Sparks]
 tags: ['Content Sparks']     
 author: giulia
-description: 
+description: Good content ideas can spark anywhere.
 comments: false
 media_subpath: assets/img/content-sparks
 image:
