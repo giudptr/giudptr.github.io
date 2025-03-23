@@ -11,8 +11,6 @@ image:
   path: /cover-image.jpg
 ---
 
-# How to survive AI fatigue for content creators
-
 Does the word “Chat” conjure images of dread in your head? Are you sick of hearing “Have you asked Copilot”? Do you find yourself rolling your eyes at posts with too many emojis? Are you unsure what a “DeepSeek” is, and, at this point, you're too afraid to ask? 
 
 You may be suffering from AI Fatigue. 

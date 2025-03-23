@@ -11,11 +11,9 @@ image:
   path: /cover-image.png
 ---
 
-# Content Sparks – because good ideas can spark anywhere\!
-
 Ever since I started working and studying content, I have been taking photos or screenshots of interesting content I see. Over time, though, these cool ideas stay in a folder inside my phone or scattered around Miro and other places because, often, they’re not enough to write a whole blog post about, or they’re just good food for thought. 
 
-So, I decided to utilize this little backlog and start publishing those sparks on my LinkedIn profile in the hope of sparking discussions or ideas among other content professionals. 
+So, I decided to utilize this little backlog and start publishing those sparks on my LinkedIn profile in the hope of sparking discussions or ideas among other content professionals. Because I firmly believe that content ideas can spark anywhere!
 
 Here’s a collection of all of my Content Sparks so far: 
 
