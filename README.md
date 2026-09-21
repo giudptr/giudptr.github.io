@@ -1,1 +1,1 @@
-# Giulia's Personal Blog
+# Giulia's Blog on Content and Tech
