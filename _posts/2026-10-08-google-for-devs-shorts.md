@@ -4,7 +4,7 @@ date: 2026-10-08 14:05:00 +/-0100
 categories: [Content strategy, Case studies, Brand]
 tags: ['2026', 'Google']     
 author: giulia
-description: 
+description: Google for Developers has published short-form video almost daily since April 2022. The videos that perform are the ones that teach nothing, sell nothing and mention no product. That isn't sloppiness. It's what the content is for — and once you see why, the thing worth criticising changes completely.
 comments: false
 media_subpath: assets/img/case-study-google-for-devs
 image:
